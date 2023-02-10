@@ -15,8 +15,6 @@ magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-
 
 使用字体：
 
-+ iOS港系，网络提取6字重版+落霞孤鹜lxgw的加粗bold，组合为7字重
-
 + 源音Genne （https://github.com/MoneMizuno/Genne-Gothic）
 
 + 更纱TC （https://github.com/be5invis/Sarasa-Gothic）
@@ -28,6 +26,12 @@ magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-
 + 源样旧字形 （https://github.com/ButTaiwan/genyo-font）
 
 + 未来荧黑TC （https://github.com/welai/glow-sans）
+
++ Ubuntu （https://fonts.google.com/specimen/Ubuntu）
+
++ iOS PingFang HK (网络提取6字重版+落霞孤鹜lxgw的加粗bold，组合为7字重）
+
++ Amazon Ember （网友提取）
 
 + 思源旧字形 （来源未知）
 
