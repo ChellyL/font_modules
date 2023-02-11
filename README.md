@@ -29,7 +29,7 @@ magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-
 
 + Ubuntu （https://fonts.google.com/specimen/Ubuntu）
 
-+ iOS PingFang HK (网络提取6字重版+落霞孤鹜lxgw的加粗bold，组合为7字重）
++ iOS PingFang HK (网友提取18.d1）
 
 + Amazon Ember （网友提取）
 
