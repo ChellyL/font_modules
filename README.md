@@ -6,7 +6,7 @@
 特点：
 
 + 多字重（5~7）
-+ 表达居中
++ 标点居中
 + 部分字采用旧字形（使用港台繁体替代）
 
 magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-magisk-module-template）
