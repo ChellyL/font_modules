@@ -33,6 +33,8 @@ magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-
 
 + Ubuntu （https://fonts.google.com/specimen/Ubuntu ）
 
++ 思源繁体 （https://github.com/Pal3love/Source-Han-TrueType）
+
 + iOS PingFang 15.0d2e5 (网友提取）
 
 + Amazon Ember （网友提取）
