@@ -9,11 +9,12 @@
 + 标点居中
 + 部分字采用旧字形（使用港台繁体替代）
 
-~~magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-magisk-module-template ）~~
+magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-magisk-module-template ）
 
-magisk模板来自 落霞孤鹜lxgw 20年在酷安发布的一个模板，
+~~magisk模板来自 落霞孤鹜lxgw 20年在酷安发布的一个模板，
+他在github上释出的两个模板我试过都有显示问题，部分数字不显示，这个模板没问题~~
 
-他在github上释出的两个模板我试过都有显示问题，部分数字不显示，这个模板没问题
+数字不显示似乎和Android系统有关，与模板本身无关
 ***
 
 使用字体：
