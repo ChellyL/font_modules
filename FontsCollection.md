@@ -9,6 +9,7 @@
 |      |   源流明體   |   https://github.com/ButTaiwan/genryu-font   |
 |      |   源樣明體   |  https://github.com/ButTaiwan/genyo-font    |
 |      |   源雲明體   |  https://github.com/ButTaiwan/genwan-font    |
+|      |   昭源宋體   |  https://github.com/chiron-fonts/chiron-sung-hk    |
 |      |  飞花宋体    |   https://github.com/Skr-ZERO/FlyFlowerSong    |
 |      |  Y式源明朝体     | https://github.com/Steve-Yuu/Yshi-YuanMincho     |
 |      | 华英明朝     |  https://github.com/GuiWonder/HuayingMincho    |
@@ -23,6 +24,8 @@
 |      |   源石黑體   |   https://github.com/ButTaiwan/genseki-font   |
 |      |  更纱黑体    |   https://github.com/be5invis/Sarasa-Gothic   |
 |      |  尚古    |   https://github.com/GuiWonder/Shanggu   |
+|      |   煮豆黑体 | https://github.com/Buernia/Zhudou-Sans    |
+|      | 昭源黑體    |   https://github.com/chiron-fonts/chiron-hei-hk   |
 |      |  寒蝉雲墨黑    |  https://github.com/Warren2060/ChillYunmoGothic    |
 |      |  懷源黑體    |  https://github.com/HWN4/kaigen-gothic    |
 |      |  遍黑体    |  https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project    |
@@ -49,7 +52,6 @@
 |      |  小赖字体    |   https://github.com/lxgw/kose-font    |
 |      |  悠哉字体    |   https://github.com/lxgw/yozai-font    |
 |      |  铁蒺藜体 | https://github.com/Buernia/Tiejili  |
-|      |   煮豆黑体 | https://github.com/Buernia/Zhudou-Sans    |
 |      |   开源像素字体 | https://github.com/TakWolf/fusion-pixel-font   |
 |      |   美績点陣體 | https://github.com/ItMarki/MisekiBitmap  |
 |      | Max的花園 | https://github.com/max32002/max-hana   |
