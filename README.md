@@ -23,7 +23,9 @@ magisk模板来自 落霞孤鹜lxgw（https://github.com/lxgw/advanced-cjk-font-
 
 + 秋空CL （https://github.com/ChiuMing-Neko/ChiuKongGothic ）
 
-+ 尚古 （https://github.com/GuiWonder/SourceHanToClassic ）
++ 尚古 （https://github.com/GuiWonder/Shanggu ）
+
++ 昭源黑體 (https://github.com/chiron-fonts/chiron-hei-hk )
 
 + 源样旧字形 （https://github.com/ButTaiwan/genyo-font ）
 
