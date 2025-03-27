@@ -9,7 +9,7 @@
 
 - [方正书宋](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%96%B9%E6%AD%A3%E4%B9%A6%E5%AE%8BGBK.ttf)
 - [方正屏显雅宋](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%A5%B5%E5%BD%B1%E6%AF%80%E7%89%87%E6%96%87%E5%AE%8B.ttf)
-- [方正悠宋](https://raw.githubusercontent.com/ChellyL/font_modules/refs/heads/main/Font/%E6%96%B9%E6%AD%A3%E6%82%A0%E5%AE%8BGBK07R.ttf)
+- [方正悠宋](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%96%B9%E6%AD%A3%E6%82%A0%E5%AE%8BGBK07R.ttf)
 - [方正宋刻本秀楷](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%96%B9%E6%AD%A3%E5%AE%8B%E5%88%BB%E6%9C%AC%E7%A7%80%E6%A5%B7%E7%AE%80%E4%BD%93.ttf)
 - [方正萤雪简体](https://github.com/ChellyL/font_modules/raw/refs/heads/main/Font/%E6%96%B9%E6%AD%A3%E8%90%A4%E9%9B%AA%E7%AE%80%E4%BD%93.ttf)
 - [仓耳今楷] [1](https://tsanger.cn/product/47) [2](https://github.com/ChellyL/font_modules/releases/download/1.2/CangErJinKai05-W03.ttf)
