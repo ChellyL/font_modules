@@ -13,5 +13,5 @@
 - [方正宋刻本秀楷](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%96%B9%E6%AD%A3%E5%AE%8B%E5%88%BB%E6%9C%AC%E7%A7%80%E6%A5%B7%E7%AE%80%E4%BD%93.ttf)
 - [方正萤雪简体](https://github.com/ChellyL/font_modules/raw/refs/heads/main/Font/%E6%96%B9%E6%AD%A3%E8%90%A4%E9%9B%AA%E7%AE%80%E4%BD%93.ttf)
 - [仓耳今楷] [1](https://tsanger.cn/product/47) [2](https://github.com/ChellyL/font_modules/releases/download/1.2/CangErJinKai05-W03.ttf)
-- [思源宋体](https://github.com/adobe-fonts/source-han-serif)
+- [思源宋体](https://github.com/adobe-fonts/source-han-serif/releases)
 
