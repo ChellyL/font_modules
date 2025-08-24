@@ -4,6 +4,7 @@
 - [极影毁片文宋] [1](https://www.maoken.com/freefonts/9917.html) [2](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%A5%B5%E5%BD%B1%E6%AF%80%E7%89%87%E6%96%87%E5%AE%8B.ttf)
 - [朱雀仿宋](https://github.com/TrionesType/zhuque/releases)
 - [寒蝉端黑宋](https://github.com/Warren2060/ChillDuanHeiSong/releases)
+- [文津宋体](https://github.com/takushun-wu/WenJinMincho/releases/)
 
 ----
 
