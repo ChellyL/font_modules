@@ -16,6 +16,8 @@
 |      |  初夏明朝體    |   https://github.com/GuiWonder/EarlySummerMincho   |
 |      | 寒蝉锦书宋     |  https://github.com/Warren2060/ChillJinshuSong    |
 |      |  朱雀仿宋    |   https://github.com/TrionesType/zhuque   |
+|      | 文津宋体     |  https://github.com/takushun-wu/WenJinMincho    |
+|      |      |      |
 |      |      |      |
 |  黑体    |      |      |
 |      |      |      |
@@ -44,7 +46,7 @@
 |      |   Y式書體    |  https://github.com/Steve-Yuu/YshiShuti   |
 |      |  计划楷    |  https://github.com/Des-Magmeta/PlanKai    |
 |      |  芫茜雅楷    |   https://github.com/ItMarki/jyunsaikaai   |
-|      |      |      |
+|      |   秋水书体   |   https://github.com/NoHeartPen/QiushuiShotai   |
 | 艺术字     |      |      |
 |      |      |      |
 |      |   jf open 粉圓    |  https://github.com/justfont/open-huninn-font  |
