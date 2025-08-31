@@ -18,7 +18,6 @@
 |      |  朱雀仿宋    |   https://github.com/TrionesType/zhuque   |
 |      | 文津宋体     |  https://github.com/takushun-wu/WenJinMincho    |
 |      |      |      |
-|      |      |      |
 |  黑体    |      |      |
 |      |      |      |
 |      |  思源黑體舊字形    |   https://github.com/MoneMizuno/Genne-Gothic   |
@@ -47,6 +46,7 @@
 |      |  计划楷    |  https://github.com/Des-Magmeta/PlanKai    |
 |      |  芫茜雅楷    |   https://github.com/ItMarki/jyunsaikaai   |
 |      |   秋水书体   |   https://github.com/NoHeartPen/QiushuiShotai   |
+|      |      |      |
 | 艺术字     |      |      |
 |      |      |      |
 |      |   jf open 粉圓    |  https://github.com/justfont/open-huninn-font  |
