@@ -8,7 +8,7 @@
 ----
 
 - [文津宋体](https://github.com/takushun-wu/WenJinMincho/releases/)
-- [仓耳今楷](https://tsanger.cn/category/21) [03-w03] [03-w03]
+- [仓耳今楷](https://tsanger.cn/category/21) [03-w03] [04-w03]
 - [思源宋体](https://github.com/adobe-fonts/source-han-serif/releases) [light]
 - [梦源宋体](https://github.com/Pal3love/dream-han-cjk/releases) [w4]
 
