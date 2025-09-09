@@ -1,5 +1,7 @@
 - [霞鶩文楷](https://github.com/lxgw/LxgwWenkai/releases)
 - [秋水书体](https://github.com/NoHeartPen/QiushuiShotai)
+- [缝合楷](https://github.com/lxgw/FusionKai)
+
 - [台灣楷体字型檔] [1](https://data.gov.tw/dataset/5961) [2](https://github.com/ChellyL/font_modules/releases/download/1.2/TW-Kai-98_1.ttf)
 - [屏显臻宋] [1](https://www.maoken.com/freefonts/3329.html) [2](https://github.com/ChellyL/font_modules/blob/main/Font/%E5%B1%8F%E6%98%BE%E8%87%BB%E5%AE%8B1.09.ttf)
 - [极影毁片文宋] [1](https://www.maoken.com/freefonts/9917.html) [2](https://github.com/ChellyL/font_modules/blob/main/Font/%E6%A5%B5%E5%BD%B1%E6%AF%80%E7%89%87%E6%96%87%E5%AE%8B.ttf)
